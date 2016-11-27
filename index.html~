@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <meta charset="utf-8">
+      <title>Tutorials Point</title>
+   </head>
+	
+   <body>	
+   
+      <header role="banner">
+         <h1>alexed</h1>
+	 <h2>Your Custom Learning Experience</h2>     
+         <p>About</p>
+      	 <p>Services</p>
+      	 <p>Philosophy</p>
+	 <p>Contact</p>
+      </header>
+      
+      <footer>
+         <p>Created by Alexander Babich</p>
+      </footer>
+      
+   </body>   
+</html>
